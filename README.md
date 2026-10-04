@@ -1,4 +1,4 @@
-# Assistant pédagogique RAG — cours de terminale
+# Assistant pédagogique RAG — cours de terminale (readme fait avec IA pour info.)
 
 Prototype réalisé dans un notebook Kaggle : il découpe des cours en passages, calcule leurs embeddings avec `Qwen/Qwen3-Embedding-0.6B`, retrouve les passages pertinents pour une question, puis génère une réponse avec un modèle servi par Groq (`openai/gpt-oss-120b`).
 
