@@ -5,7 +5,7 @@ Prototype réalisé dans un notebook Kaggle : il découpe des cours en passages,
 ## Contenu
 
 - [`fadhili-akram-rag-valu.ipynb`](fadhili-akram-rag-valu.ipynb) : notebook Kaggle, avec ses sorties d'exécution.
-- [Vidéo de démonstration](demo/demo-rag-llm-api.mp4) : version compressée de la démonstration fournie.
+- [Vidéo de démonstration](demo-rag-llm-api.mp4) : version compressée de la démonstration fournie.
 
 ## Exécuter dans Kaggle
 
